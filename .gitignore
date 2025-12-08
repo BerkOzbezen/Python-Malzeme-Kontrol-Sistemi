@@ -1,0 +1,8 @@
+# Python Bytecode ve Derleme Dosyaları
+*.pyc
+__pycache__/
+
+# İşletim Sistemi ve IDE Dosyaları
+.DS_Store
+Thumbs.db
+.vscode/
